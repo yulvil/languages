@@ -16,3 +16,9 @@ languages
 | Short signature for blocks | no | | | yes | | | | |
 | Synchronous message passing |  | | | | | |  | yes |
 | Explicit concurrency |  | | | | | |  | yes |
+
+* Pointers
+* Pointer arithmetic
+* Closure
+* DSL
+* Operator overloading
