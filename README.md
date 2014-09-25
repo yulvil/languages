@@ -32,3 +32,5 @@ languages
 * interface inheritance
 * assertions
 * inheritance
+* garbage collector
+* multiple return values
