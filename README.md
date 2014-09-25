@@ -24,8 +24,11 @@ languages
 * Operator overloading
 * anonymous functions, i.e. f = func(a,b) {...}
 * currying
-* generics
 * exceptions
 * pattern matching
 * lazy values
 * type system (structural, nominal, duck type)
+* generic programming
+* interface inheritance
+* assertions
+* inheritance
