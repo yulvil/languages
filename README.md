@@ -28,3 +28,4 @@ languages
 * exceptions
 * pattern matching
 * lazy values
+* type system (structural, nominal, duck type)
