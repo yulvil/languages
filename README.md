@@ -24,3 +24,7 @@ languages
 * Operator overloading
 * anonymous functions, i.e. f = func(a,b) {...}
 * currying
+* generics
+* exceptions
+* pattern matching
+* lazy values
