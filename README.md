@@ -34,3 +34,4 @@ languages
 * inheritance
 * garbage collector
 * multiple return values
+* variant types
