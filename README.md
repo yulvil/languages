@@ -35,3 +35,6 @@ languages
 * garbage collector
 * multiple return values
 * variant types
+* macros
+* threads
+* coroutines / lwp
