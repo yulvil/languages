@@ -22,6 +22,7 @@ languages
 * Closure
 * DSL
 * Operator overloading
+* function/method overloading
 * anonymous functions, i.e. f = func(a,b) {...}
 * currying
 * exceptions
