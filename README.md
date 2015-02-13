@@ -41,3 +41,5 @@ languages
 * coroutines / lwp
 
 https://roslyn.codeplex.com/wikipage?title=Language%20feature%20status
+
+http://blog.rust-lang.org/2015/02/13/Final-1.0-timeline.html
